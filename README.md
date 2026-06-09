@@ -63,7 +63,7 @@ Uso do Local Outlier Factor (LOF) para mapear anomalias de mercado (ex: imóveis
 
 Emprego do algoritmo Apriori para mapear tendências estruturais correlacionadas (ex: probabilidade de uma casa com ar condicionado central também possuir uma garagem ampla).
 
-🏆 Critérios de Avaliação Atendidos (Checklist)
+ Critérios de Avaliação Atendidos (Checklist)
 [x] Item 1: Análise exploratória de dados e feature engineering (1,0 pt)
 
 [x] Item 2: Aprendizagem supervisionada: regressão (1,0 pt)
